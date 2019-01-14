@@ -1,3 +1,9 @@
+projet fait par Selmen Mhamdi & Lauren Olivier
+
+
+
+
+
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
